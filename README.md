@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, perfil en construcción. 🌱
 
-<!--
-**AndresTechnology/AndresTechnology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hola, soy AndresTechnology 👋
+### Técnico electrónico y programador.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## SKILLS:
+[![Apple](https://img.shields.io/badge/C%23-FA7343?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
+
+
+
+## Contacto y apoyo:
+
+[![Email](https://img.shields.io/badge/andreslomba@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:andreslomba@gmail.com)
+</br>
